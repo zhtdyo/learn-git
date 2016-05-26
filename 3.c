@@ -6,4 +6,6 @@ void bug (void)
 void myfun(void)
 {
 	int j = 0;
-	...
+	j++;
+}
+
