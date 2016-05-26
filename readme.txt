@@ -5,4 +5,4 @@ a git account test
 it is master branch !
 it is dev branch !
 it is dev branch !
-creating a new brach is quik & simple
+creating n new branch is quick and simple 
