@@ -1,4 +1,4 @@
 void bug (void)
 {
-	int i = 1 % 0;
+	int i = 1 + 0;
 }
